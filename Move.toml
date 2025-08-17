@@ -1,0 +1,6 @@
+[package]
+name = "product-crud"
+version = "0.1.0"
+
+[addresses]
+marketplace = "0x0"  # Dirección que puedes cambiar al desplegar
