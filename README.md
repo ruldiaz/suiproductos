@@ -41,12 +41,13 @@ Este proyecto implementa un sistema básico de gestión de productos en la block
 1. Clona el repositorio
 ```bash
 git clone https://github.com/ruldiaz/suiproductos.git
-cd product-crud
+cd suiproductos
 ```
 2. Ejecuta los tests
 ```bash
 sui move test
 ```
 Move Registry
-
+```bash
 mvr add @pkg/productos
+```
