@@ -47,3 +47,6 @@ cd product-crud
 ```bash
 sui move test
 ```
+Move Registry
+
+mvr add @pkg/productos
